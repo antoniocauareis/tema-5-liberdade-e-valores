@@ -1,0 +1,8 @@
+header{
+    background-color: gray;
+    grid-area: header;
+    display: grid;
+    align-items: center;
+    justify-items: flex-end;
+
+}
